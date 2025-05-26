@@ -53,7 +53,7 @@ An advanced Python-based web scraper designed to extract comprehensive project i
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/odisha-rera-scraper.git
+git clone git@github.com:Jaideep880/Odisha-RERA-Project-Scraper.git
 cd odisha-rera-scraper
 ```
 
@@ -132,7 +132,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 Your Name
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: git@github.com:Jaideep880/Odisha-RERA-Project-Scraper.git
+- GitHub: [@Jaideep880]
 
 ## 🙏 Acknowledgments
 
