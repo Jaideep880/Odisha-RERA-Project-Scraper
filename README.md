@@ -53,7 +53,7 @@ An advanced Python-based web scraper designed to extract comprehensive project i
 
 1. Clone the repository:
 ```bash
-git clone git@github.com:Jaideep880/Odisha-RERA-Project-Scraper.git
+git clone https://github.com/Jaideep880/Odisha-RERA-Project-Scraper.git
 cd odisha-rera-scraper
 ```
 
@@ -77,7 +77,6 @@ The script will:
 
 ## 📊 Output
 
-The script generates two types of output files:
 
 1. **CSV Format**
    - Timestamped filename
@@ -132,7 +131,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 Your Name
-- GitHub: git@github.com:Jaideep880/Odisha-RERA-Project-Scraper.git
+- GitHub: https://github.com/Jaideep880/Odisha-RERA-Project-Scraper.git
 - GitHub: [@Jaideep880]
 
 ## 🙏 Acknowledgments
